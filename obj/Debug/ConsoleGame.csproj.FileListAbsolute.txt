@@ -1,0 +1,6 @@
+D:\Резюме\Консольная игра C#\console-game\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+D:\Резюме\Консольная игра C#\console-game\bin\Debug\ConsoleGame.exe.config
+D:\Резюме\Консольная игра C#\console-game\bin\Debug\ConsoleGame.exe
+D:\Резюме\Консольная игра C#\console-game\bin\Debug\ConsoleGame.pdb
+D:\Резюме\Консольная игра C#\console-game\obj\Debug\ConsoleGame.exe
+D:\Резюме\Консольная игра C#\console-game\obj\Debug\ConsoleGame.pdb
